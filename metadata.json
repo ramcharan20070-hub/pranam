@@ -1,0 +1,6 @@
+{
+  "name": "Pranam",
+  "description": "Fitness and biometric tracker with real-time GPS tracking, heart rate analytics, and personalized AI workout plans",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
